@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+.box {
+    box-shadow: 0 0 20px 0 rgba(112 112 138 /18%); 
+    border-radius: 20px;
+    padding: 30px; 
+    border: 2px solid #FFF;
+    cursor: pointer;  
+    width: 860px;
+    height: 506px;
+    margin: 7% 20px 60px 25%;
+}
+.text {
+    text-align: center;
+}   
+.text h1 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #232323;
+}
+
+.registerselection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    margin: 3% 10px 30px 2%;
+}
+
+.customer {
+    width: 295px;
+    height: 180px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+.freelancer {
+    width: 295px;
+    height: 180px;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+button {
+    margin: 0 auto;
+    display: block;
+}
+.btn {
+    background-color: #0B666A;
+    padding: 10px 30px 10px 20px;
+    border: none;
+    color: #35A29F;
+    padding: 10px 30px;
+    width: 462px;
+    height: 61px;
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn:hover {
+    transition: 0.4s;
+    color: #fff;
+} */
